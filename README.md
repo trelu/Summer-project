@@ -1,2 +1,0 @@
-# quaternions
-Trial quaternionic calculator
